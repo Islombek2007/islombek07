@@ -324,11 +324,6 @@ header .container {
 @media screen and (orientation: portrait) {
   body {
     margin-left: 250px !important; }
- .section7 .container {
-   margin-left{
-     -50px !important;
-   }
-
   .section1 .container .row .col-5 .row .img3 {
     border-radius: 15px; }
   .section1 .container .row .col-5 .row .img4 {
