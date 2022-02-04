@@ -323,7 +323,7 @@ header .container {
 
 @media screen and (orientation: portrait) {
   body {
-    margin-left: 400px !important; }
+    margin-left: 300px !important; }
 
   .section1 .container .row .col-5 .row .img3 {
     border-radius: 15px; }
